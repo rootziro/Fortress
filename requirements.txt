@@ -1,0 +1,17 @@
+# Core dependencies
+requests>=2.31.0
+click>=8.1.7
+colorama>=0.4.6
+pyperclip>=1.8.2
+zxcvbn>=4.4.28
+
+# Future dependencies (for vault)
+argon2-cffi>=23.1.0
+cryptography>=41.0.7
+
+# Development dependencies
+pytest>=7.4.3
+pytest-cov>=4.1.0
+black>=23.12.1
+flake8>=7.0.0
+mypy>=1.8.0
